@@ -38,7 +38,7 @@
     "@lumino/widgets": "^1.26.0",
     "vega": "^5.9.0",
     "vega-embed": "^6.2.1",
-    "vega-lite": "^4.0.2"
+    "vega-lite": "^6.2.0"
   },
   "devDependencies": {
     "@types/webpack-env": "^1.14.1",
